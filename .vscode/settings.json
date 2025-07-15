@@ -1,0 +1,16 @@
+{
+    "github.copilot.chat.commitMessageGeneration.instructions": [
+        {
+            "text": "必ず日本語で記述してください"
+        },
+        {
+            "text": "ブランチ名を先頭に含めてください"
+        },
+        {
+            "text": "ブランチ名が分からない時は、前のブランチ名を含めてください"
+        },
+        {
+            "text": "コミットメッセージのプレフィックスは次のルールに従ってください: fix（バグ修正）、add（新規機能追加）、update（機能修正）、remove（削除）"
+        }
+    ]
+}
